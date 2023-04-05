@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/wdai-cst-org/infrastructure.git
-    targetRevision: development
+    targetRevision: production
     path: yaml-manifests
   destination:
     server: https://kubernetes.default.svc
